@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 
-SECRET_KEY = 'django-insecure-(ciqdiql7=*o80(ls)1ue)f+_5^vj4w+=inovdilz8eq9$+wpf'
+SECRET_KEY = 'key'
 
 
 DEBUG = True
